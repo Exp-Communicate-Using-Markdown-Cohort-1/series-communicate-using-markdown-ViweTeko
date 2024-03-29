@@ -6,3 +6,4 @@
 ###### Finally, H6 header
 Above I have tested making headings of different sizes
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
