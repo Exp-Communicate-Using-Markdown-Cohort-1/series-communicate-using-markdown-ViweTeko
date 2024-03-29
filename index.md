@@ -6,8 +6,10 @@
 ###### Finally, H6 header
 Above I have tested making headings of different sizes
 
+## Step 2: Add an image
 ![A plantula growing](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-ViweTeko/assets/135851848/ae362a7f-9476-4c73-933a-59a2da2a4ed9)
 
+## Step 3: Add a code example
 With this being said: I'd like tp greet you all in Python:
 ```
 $ python3
@@ -26,6 +28,7 @@ Then exit interactive mode:
 $
 ```
 
+## Step 4: Make a task list
 To add tasks:
 - [x] Finish these tasks
 - [x] Play around some more
